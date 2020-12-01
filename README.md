@@ -6,12 +6,12 @@
 
 ### 组件库
 
->> vant ui
+> vant ui
 
 ### api初始化框架封装
 
->> common-api.js , coupon-api.js ,  index.js , Promisify.js
+> common-api.js , coupon-api.js ,  index.js , Promisify.js
 
 ### 已封装组件
 
->> 搜索弹窗，商品，海报，登录模块等
+> 搜索弹窗，商品，海报，登录模块等
